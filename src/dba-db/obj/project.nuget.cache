@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjNW4l66NOnbKv6zvOmMxkocsz8mQ/s8jWuY9ePZbrjKNogzJ476jdglTX1q18t78c9lNg/mlpVnQ4qLTX17bQ==",
+  "success": true,
+  "projectFilePath": "c:\\GitHub\\dacpac\\src\\dba-db\\dba-db.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo.mendes\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\hugo.mendes\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

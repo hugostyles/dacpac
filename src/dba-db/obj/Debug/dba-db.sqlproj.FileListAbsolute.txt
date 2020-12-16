@@ -1,0 +1,10 @@
+c:\GitHub\dacpac\src\dba-db\bin\Debug\dba-db.dacpac
+c:\GitHub\dacpac\src\dba-db\obj\Debug\dba-db.sqlprojAssemblyReference.cache
+c:\GitHub\dacpac\src\dba-db\obj\Debug\dba-db.dll
+c:\GitHub\dacpac\src\dba-db\obj\Debug\dba-db.pdb
+c:\GitHub\dacpac\src\dba-db\bin\Debug\dba-db.dll
+c:\GitHub\dacpac\src\dba-db\bin\Debug\dba-db.pdb
+c:\GitHub\dacpac\src\dba-db\obj\Debug\Model.xml
+c:\GitHub\dacpac\src\dba-db\obj\Debug\refactor.xml
+c:\GitHub\dacpac\src\dba-db\obj\Debug\postdeploy.sql
+c:\GitHub\dacpac\src\dba-db\obj\Debug\predeploy.sql
