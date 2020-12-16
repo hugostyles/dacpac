@@ -70,5 +70,6 @@
     <Build Include="dbo\Stored Procedures\sp_whoIsActive.sql"/>
     <Build Include="dbo\Stored Procedures\hm_version.sql"/>
     <Build Include="dbo\Stored Procedures\test.sql"/>
+    <Build Include="dbo\Stored Procedures\hello.sql"/>
   </ItemGroup>
 </Project>
