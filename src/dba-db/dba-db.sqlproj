@@ -68,5 +68,6 @@
   </Target>
   <ItemGroup>
     <Build Include="dbo\Stored Procedures\sp_whoIsActive.sql"/>
+    <Build Include="dbo\Stored Procedures\hm_version.sql"/>
   </ItemGroup>
 </Project>
