@@ -1,1 +1,3 @@
 select @@servername
+
+select @@version
